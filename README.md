@@ -1,3 +1,4 @@
+[![Check PR health](https://github.com/qikerrs/Baileys/actions/workflows/lint.yml/badge.svg)](https://github.com/qikerrs/Baileys/actions/workflows/lint.yml)
 # Baileys - Typescript/Javascript WhatsApp Web API
 
 ### Important Note
